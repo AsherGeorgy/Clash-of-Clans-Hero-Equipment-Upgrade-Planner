@@ -3,7 +3,7 @@
 Greetings, Clashers! 
 
    
-Following the positive response received on the Reddit [post](https://www.reddit.com/r/ClashOfClans/comments/1atwpa1/plan_your_hero_equipment_upgrades_using_this/), here's the GitHub page for the Clash of Clans Hero Equipment Upgrade Planner. I'll continuously update the Google Sheets link here to accommodate new game updates. Contributions welcome!
+Following the positive response received on the [Reddit post](https://www.reddit.com/r/ClashOfClans/comments/1atwpa1/plan_your_hero_equipment_upgrades_using_this/), here's the GitHub page for the Clash of Clans Hero Equipment Upgrade Planner. I'll continuously update the Google Sheets link here to accommodate new game updates. 
 
 ## Overview
 
@@ -36,11 +36,11 @@ This tool helps Clash of Clans players plan their Hero Equipment upgrades based 
    - Use the 'My Upgrade Plan' section to jot down long term upgrade plans.
 
 ## Screenshots
-![Dashboard](https://github.com/ashergeo/My-Portfolio/blob/main/assets/Fun%20projects/Dashboard.png)
+![Dashboard](https://github.com/AsherGeorgy/My-Portfolio/blob/main/Fun%20projects/assets/Dashboard.png?raw=true)
 
 ---
 
-![Data and Lookup](https://github.com/ashergeo/My-Portfolio/blob/main/assets/Fun%20projects/Data%20and%20Lookup.png)
+![Data and Lookup](https://github.com/AsherGeorgy/My-Portfolio/blob/main/Fun%20projects/assets/Data%20and%20Lookup.png?raw=true)
 
 ---
 
@@ -49,15 +49,7 @@ A **Townhall 15 at Champion III** that wars once a week and has a blacksmith bal
 The Dashboard will look like this:
 
 --- 
-![Example](https://github.com/ashergeo/My-Portfolio/blob/main/assets/Fun%20projects/Example%20Usage.png)
-
----
-
-## Feedback and Support
-
-Reach me at [georgy.asher@gmail.com](mailto:georgy.asher@gmail.com)
-
-Your input is appreciated.
+![Example](https://github.com/AsherGeorgy/My-Portfolio/blob/main/Fun%20projects/assets/Example%20Usage.png?raw=true)
 
 ---
 
