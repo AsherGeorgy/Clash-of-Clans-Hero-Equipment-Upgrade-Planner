@@ -1,3 +1,5 @@
+*Note: This repository hasn't been updated since it's inception. The planner presented here could therefore be outdated if new updates were rolled out since.*
+
 # Clash of Clans Hero Equipment Upgrade Planner
 
 Greetings, Clashers! 
